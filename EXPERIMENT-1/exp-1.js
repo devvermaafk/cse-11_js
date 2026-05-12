@@ -14,7 +14,7 @@ grade = "A+";
 else if(average >= 75){
 grade = "A";
 }
-else if(average >= 60){
+else if(average >= 60){6
 grade = "B";
 }
 else if(average >= 50){
